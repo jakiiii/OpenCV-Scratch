@@ -39,19 +39,31 @@ nbconvert==5.4.0
 nbformat==4.4.0
 notebook==5.7.4
 numpy==1.15.4
+<<<<<<< HEAD
 oauthlib==3.0.0
 opencv-python==4.0.0.21
 pandocfilters==1.4.2
 parso==0.3.1
 pathlib2==2.3.3
+=======
+opencv-contrib-python==4.0.0.21
+opencv-python==4.0.0.21
+pandocfilters==1.4.2
+parso==0.3.1
+pexpect==4.6.0
+>>>>>>> 75581e31cec0120beda6c948d6e40224c07d7540
 pickleshare==0.7.5
 Pillow==5.4.1
 prometheus-client==0.5.0
 prompt-toolkit==2.0.7
+<<<<<<< HEAD
 protobuf==3.6.1
 pyasn1==0.4.5
 pyasn1-modules==0.2.3
 pycparser==2.19
+=======
+ptyprocess==0.6.0
+>>>>>>> 75581e31cec0120beda6c948d6e40224c07d7540
 Pygments==2.3.1
 pyOpenSSL==18.0.0
 pyparsing==2.3.0
